@@ -1,0 +1,5 @@
+{
+  "name": "distur",
+  "description": "Commandline client for distUR.net service",
+  "version": "0.0.1"
+}
