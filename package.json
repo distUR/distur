@@ -1,5 +1,17 @@
 {
   "name": "distur",
   "description": "Commandline client for distUR.net service",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "dependencies": {
+    "ddp": "^0.11.0",
+    "dropbox": "^0.10.3",
+    "jsonwebtoken": "^5.0.0",
+    "npmconf": "^2.1.1",
+    "traceur": "0.0.89"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-traceur": "^0.17.1",
+    "mocha": "^2.2.4"
+  }
 }
